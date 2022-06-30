@@ -1,9 +1,4 @@
-<?php
-require __DIR__ . "/vendor/autoload.php";
-?>
-
-
-<!doctype html>
+<!DOCTYPE html>
 <html lang="sv">
 <head>
     <meta charset="utf-8">
